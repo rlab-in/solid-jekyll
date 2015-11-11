@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: R-LAB
+description: "Robotics Open Laboratory. An online platform for robotics research."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -13,15 +13,15 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  primary: "#00b3fe" #"#F70031"
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#384452" #"#33004D"
   link: "#428bca"
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
-  
-  
+
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -31,79 +31,79 @@ social:
   - title: facebook
     url:
   - title: twitter
-    url: 
+    url:
   - title: instagram
-    url: 
+    url:
   - title: tumblr
-    url: 
-    
+    url:
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-  - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+  - lines:
+    - Bailey Road,
+    - Patna 800014,
+    - Bihar, INDIA.
+email: info@mysite.com
+tel: +91-7070336942
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+  - name: Ganesh Kumar
+    position: Founder and Principal
+    text: Ganesh once dreamed of making his own humanoid robot which can play with him in his childhood. He is still chasing his dream. He pursued his master degree in Automation and Control and gained some experience  at MIT, USA  during his internship. Currently, He is pursuing his Doctorate in Compliance robotics system for safe human-robot ineraction at LAAS CNRS in France. Ganesh oversees the creative direction at R-LAB, take up some courses and offer projects as well as take care of business development.
+    img: ganesh.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:gtech.005@gmail.com
+      - title: twitter
+        url: http://twitter.com/ganesh_kum
+  - name: Anny D
+    position:  Project Manager
+    text: Anny D has  worked in IT firms for several years and have good experience in managing onsite and online projects. Anny’s charm and willingness to talk to anyone and everyone has been key to building our large local client base. Despite her fondness for chit chat, Anny is a bit of a book worm and likes nothing more than a night in with a good book.
+    img: anny.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+  - name: MuKunda Bhartheesha
+    position: Researcher (Control System)
+    text: Mukunda will write it here later!!!!
+    img: mukunda.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+  - name: Harmish Khambaita
+    position: Researcher (Robot Navigation)
+    text: Harmish will write it here later!!!!
+    img: harmish.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:harmish.khambhaita@hotmail.com
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-    
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        url: http://twitter.com/harmishhk
 
-# Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+# # Clients information. Shown on Home and About pages.
+# clients:
+#   - name: dribbble
+#     img: client01.png
+#   - name: Code is Poetry
+#     img: client02.png
+#   - name: Vimeo
+#     img: client03.png
+#   - name: VimeoPro
+#     img: client04.png
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "We’re an energetic, flexible, and open-minded team ready to work hard for our clients. If you’re interested in working with us, please send us a message!"
+
+# # Testimonial content. Shown on Home and About page.
+# testimonial:
+#     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+#     author: Marcel Newman
+#     position: WEB DESIGNER - BLACKTIE.CO

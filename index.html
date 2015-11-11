@@ -9,29 +9,29 @@ permalink: /
         <div class="row centered">
             <div class="col-md-4">
                 <i class="fa fa-heart-o"></i>
-                <h4>Handsomely Crafted</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <h4>Vision</h4>
+                <p>If you are interested in robotics or humanoid robotics in particular and would like to pursue your research interest in ths field  in future but demotivated by the fact that access to the robots is expensive and limited to few world class laboratories and univesities, then this is the place for you. Our effort is to provide a platform where you can learn about advances in robotic technology, be the part of research projects offered and supervised by the researchers around the world and even able to perform experiments on the robots to suport your research.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
                 <i class="fa fa-flask"></i>
-                <h4>Retina Ready</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <h4>Projects</h4>
+                <p>Offered projects are here! These research projects are proposed by  Phd candidates, professors and several other researchers from various laboratories and universities. Please browse the projects and be the part of one or more projects that suit your research interest.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
                 <i class="fa fa-trophy"></i>
-                <h4>Quality Theme</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <h4>Cources</h4>
+                <p>Fundamental knoweldge of mathematics, kinematics, dynamics and control is neccessary to conduct research in robotics. Also the computer programming skills, basic electronics and embedded system are nontheless important. Here not  only we provide vast resources for self learning but also offer short courses, some of them are supervised, which will provide you indepth understanding of such concepts.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
-            </div>		 				
+            </div>
         </div>
-    </div><! --/container -->
-</div><! --/service -->
+    </div>
+</div>
 
-{% include portfolio.html title="LATEST WORKS" limit=10 %}
+<!-- {% include portfolio.html title="LATEST WORKS" limit=0 %} -->
 
-<div class="container mtb">
+<!-- <div class="container mtb">
     <div class="row">
         <div class="col-lg-4 col-lg-offset-1">
             <h4>More About Our Agency.</h4>
@@ -42,7 +42,7 @@ permalink: /
         <div class="col-lg-3">
             <h4>Frequently Asked</h4>
             <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
+            {% for post in site.categories['question'] %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
             {% endfor %}
         </div>
@@ -50,10 +50,9 @@ permalink: /
         <div class="col-lg-3">
             <h4>Latest Posts</h4>
             <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
+            {% for post in site.categories['blog'] limit:5 %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-            {% endfor %} 
+            {% endfor %}
         </div>
-
-    </div><! --/row -->
-</div><! --/container -->
+    </div>
+</div> -->
