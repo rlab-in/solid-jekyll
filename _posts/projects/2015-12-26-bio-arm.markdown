@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Human inspired Bio-Pneumatic ARM"
+date: 2015-12-26 23:25:30
+author: Admin
+categories:
+- projects
+- Wordpress
+- Photoshop
+img: bioarmpost01.jpg
+thumb: bioarmthumb01.jpg
+---
+
+Robotics has always been drawing inspiration from nature. Mimicking the capabilities of animal and human has been a motivation for many robotics research. In this proposed project the focus is to study the behavior of human arm and then apply these knowledge to control an anthropomorphic Bio-Pneumatic ARM which is a 7 degree of freedom manipulator robot. <!--more-->
+Bio-Pneumatic ARM is an experimental setup to study the inherent compliance in robotic system, It is designed with artificial muscles as actuators in agostic and antagonistic fashion. The robot is projected to perform explosive tasks like throwing balls and hammering with maximum speed. The ongoing projects has several work packages.Students can join the project and discuss with the project owner about their responsibilities.
+
+
+
+Project Level: Undergraduate to Phd
+
+Project scope:
+
+* Study and develop a dynamic model for human muscles and a robotic  joints.
+* Develop a URDF and 3D model and simulate the dynamics in Simulator
+* System identification for the joint
+* Design PID controller to track a reference position
+* Study the sources and effects of non linearities
+* Design non-linear controller to deal with the non linearities in the actuator model
+
+Requirements:
+Students from all level from undergraduate to Phd level can join this project
+
+Recommended background: Electronics/Eectrical, computer Science, Mechanical, and similar
+
+Send us an email with subject "Bio-Arm" if you want to be the part of this project
+
+
+[hampden]: https://github.com/
