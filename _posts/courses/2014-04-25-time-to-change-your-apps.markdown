@@ -7,7 +7,7 @@ categories:
 - courses
 - Wordpress
 - Photoshop
-img: post01.jpg
+img: mathcourse.jpeg
 thumb: maththumb01.jpg
 ---
 

@@ -7,16 +7,16 @@ categories:
 - courses
 - Tips&Tricks
 - Code-Snippets
-img: post03.jpg
+img: robocourse.jpeg
 thumb: roboticsthumb03.jpg
 ---
 
 The offered courses and respective course materials can be found here.
 <!--more-->
 
-* R01 Introduction to robot kinamatics and dynamics
+* R01 Introduction to robot kinematics and dynamics
 * R02 Robotic manipulator and control
-* R03 Robot navigation and path plannning
+* R03 Robot navigation and path planning
 * R04 Humanoid robots: Whole body motion control
 
 [hampden]: https://github.com/
