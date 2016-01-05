@@ -7,7 +7,7 @@ categories:
 - courses
 - Tips&Tricks
 - Code-Snippets
-img: robocourse.jpeg
+img: robotcoursebig.jpg
 thumb: roboticsthumb03.jpg
 ---
 
@@ -20,3 +20,8 @@ The offered courses and respective course materials can be found here.
 * R04 Humanoid robots: Whole body motion control
 
 [hampden]: https://github.com/
+
+<p>Photo Credit: <a href="https://www.flickr.com/photos/flyingsinger/3594424457/" title="Title">
+Photo </a> by <a href="https://www.flickr.com/photos/flyingsinger/" title="Title">
+Bruce </a> </a>  <a href="http://creativecommons.org/licenses/by/2.0/ " title="Title">
+/Licensed by CC </a></p>

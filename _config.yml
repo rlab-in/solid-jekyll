@@ -53,7 +53,12 @@ tel: +91-7070336942
 members:
   - name: Ganesh Kumar
     position: Founder and Principal
-    text: Ganesh once dreamed of making his own humanoid robot which can play with him in his childhood. He is still chasing his dream. He pursued his master degree in Automation and Control and gained some experience  at MIT, USA  during his internship. Currently, He is pursuing his Doctorate in Compliance robotics system for safe human-robot ineraction at LAAS CNRS in France. Ganesh oversees the creative direction at R-LAB, take up some courses and offer projects as well as take care of business development.
+    text: Ganesh once dreamed of making his own humanoid robot which can play with him in his childhood.
+          He is still chasing his dream. He pursued his master degree in Automation and Control and gained
+          some experience  at MIT, USA  during his internship. Currently, He is pursuing his Doctorate in
+          Compliance robotics system for safe human-robot ineraction at LAAS CNRS in France. Ganesh oversees
+          the creative direction at R-LAB, take up some courses and offer projects as well as take care of
+          business development.
     img: ganesh.jpg
     social:
       - title: envelope #use for email address
@@ -62,7 +67,9 @@ members:
         url: http://twitter.com/ganesh_kum
   - name: Anny D
     position:  Project Manager
-    text: Anny D has  worked in IT firms for several years and have good experience in managing onsite and online projects. Anny’s charm and willingness to talk to anyone and everyone has been key to building our large local client base. Despite her fondness for chit chat, Anny is a bit of a book worm and likes nothing more than a night in with a good book.
+    text: Anny D has  worked in IT firms for several years and have good experience in managing onsite and online projects.
+          Anny’s charm and willingness to talk to anyone and everyone has been key to building our large local client base.
+          Despite her fondness for chit chat, Anny is a bit of a book worm and likes nothing more than a night in with a good book.
     img: anny.jpg
     social:
       - title: envelope #use for email address
