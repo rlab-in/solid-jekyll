@@ -5,8 +5,6 @@ date: 2015-12-27 01:59:00
 author: Admin
 categories:
 - courses
-- Tips&Tricks
-- Code-Snippets
 img: robotcoursebig.jpg
 thumb: roboticsthumb03.jpg
 ---

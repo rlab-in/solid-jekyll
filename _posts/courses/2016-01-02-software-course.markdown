@@ -5,8 +5,6 @@ date: 2014-04-25 16:54:46
 author: Admin
 categories:
 - courses
-- Tips&Tricks
-- Code-Snippets
 img: softcourse.jpg
 thumb: softwarethumb03.jpg
 ---

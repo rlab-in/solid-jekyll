@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Mathematics "
+title: "Mathematics"
 date: 2015-12-27 01:57:46
 author: Admin
 categories:
 - courses
-- Wordpress
-- Photoshop
 img: mathcourse.jpg
 thumb: maththumb01.jpg
 ---

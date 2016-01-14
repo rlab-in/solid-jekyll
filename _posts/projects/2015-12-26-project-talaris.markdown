@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "PROJECT TALARIS"
+title: "Project TALARIS"
 date: 2014-04-25 16:54:46
 author: Admin
 categories:
 - projects
-- Tips&Tricks
-- Code-Snippets
 img: talaris.jpg
 thumb: talaristhumb03.jpg
 ---

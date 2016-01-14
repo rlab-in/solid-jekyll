@@ -5,8 +5,6 @@ date:   2015-12-27 01:57:46
 author: Admin
 categories:
 - courses
-- Web-Design
-- Development
 img: controlcourse.jpg
 thumb: controlthumb02.jpg
 ---
