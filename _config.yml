@@ -5,7 +5,7 @@ title: R-LAB
 description: "Robotics Open Laboratory. An online platform for robotics research."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://r-lab.in"
 
 # Build settings
 markdown: kramdown
@@ -38,13 +38,9 @@ social:
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines:
-    - Bailey Road,
-    - Patna 800014,
-    - Bihar, INDIA.
-email: info@mysite.com
-tel: +91-7070336942
+
+email: admin@r-lab.in
+
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -85,9 +81,9 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Harmish Khambhaita
+  - name: Harmish Khambaita
     position: Researcher (Robot Navigation)
-    text: Harmish is a doctoral candidate at LAAS-CNRS in France, where he is working on the subject of robot navigation in populated environements like airports and shopping malls. He earned his master's degree in Autonomous Systems from the Bonn-Rhein-Sieg University of Applied Science in Germany. Harmish helps formulating courses and guiding students through motion planning related couses.
+    text: Harmish will write it here later!!!!
     img: harmish.jpg
     social:
       - title: envelope #use for email address
