@@ -83,7 +83,7 @@ members:
         url: http://twitter.com/handle
   - name: Harmish Khambaita
     position: Researcher (Robot Navigation)
-    text: Harmish will write it here later!!!!
+    text: Harmish is a doctoral candidate at LAAS-CNRS in France, where he is working on the subject of robot navigation in populated environements like airports and shopping malls. He earned his master's degree in Autonomous Systems from the Bonn-Rhein-Sieg University of Applied Science in Germany. Harmish helps formulating courses and guiding students through motion planning related couses.
     img: harmish.jpg
     social:
       - title: envelope #use for email address
